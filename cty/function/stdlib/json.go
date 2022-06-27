@@ -1,7 +1,7 @@
 package stdlib
 
 import (
-	"github.com/avenga/go-cty/cty/json"
+	"github.com/zclconf/go-cty/cty/json"
 
 	"github.com/zclconf/go-cty/cty"
 	"github.com/zclconf/go-cty/cty/function"

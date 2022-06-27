@@ -1,4 +1,4 @@
-module github.com/avenga/go-cty
+module github.com/zclconf/go-cty
 
 require (
 	github.com/apparentlymart/go-textseg/v13 v13.0.0
@@ -10,7 +10,6 @@ require (
 require (
 	github.com/golang/protobuf v1.3.4 // indirect
 	github.com/vmihailenco/tagparser v0.1.1 // indirect
-	github.com/zclconf/go-cty v1.10.1-0.20220623211957-834994b84991 // indirect
 	golang.org/x/net v0.0.0-20200301022130-244492dfa37a // indirect
 	google.golang.org/appengine v1.6.5 // indirect
 )

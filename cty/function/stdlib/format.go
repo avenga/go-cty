@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/apparentlymart/go-textseg/v13/textseg"
-	"github.com/avenga/go-cty/cty/json"
+	"github.com/zclconf/go-cty/cty/json"
 
 	"github.com/zclconf/go-cty/cty"
 	"github.com/zclconf/go-cty/cty/convert"
